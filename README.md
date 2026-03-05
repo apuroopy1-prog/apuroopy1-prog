@@ -32,7 +32,7 @@ My focus is **applied GenAI** — not demos, not notebooks, but production syste
 <tr>
 <td width="50%" valign="top">
 
-### [AccountingGPT](https://github.com/apuroopy1-prog/AccountingGPT)
+### [ClearFlow AI](https://github.com/apuroopy1-prog/AccountingGPT)
 > AI financial platform for small businesses
 
 - **LangGraph ReAct agent** — conversational memory across sessions, 3 financial tools
