@@ -60,19 +60,6 @@ My focus is **applied GenAI** — not demos, not notebooks, but production syste
 <tr>
 <td width="50%" valign="top">
 
-### [JurisGPT](https://github.com/apuroopy1-prog/JurisGPT)
-> Legal AI platform with voice interface
-
-- **Multi-agent pipeline** — investigation, research, drafting, case analysis agents
-- **Voice I/O** — OpenAI Whisper (STT) + TTS for fully spoken legal consultations
-- **Document parsing** — contracts, case files, legal briefs (PyMuPDF, python-docx)
-- **Case visualization** — NetworkX relationship graphs, Plotly timelines
-
-`LangChain` `Claude` `OpenAI Whisper` `Streamlit` `ReportLab` `NetworkX`
-
-</td>
-<td width="50%" valign="top">
-
 ### [AI Vacation Planner](https://github.com/apuroopy1-prog/AI-Vacation-Planner)
 > 4-agent CrewAI travel planning pipeline
 
