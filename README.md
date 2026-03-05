@@ -71,8 +71,6 @@ My focus is **applied GenAI** — not demos, not notebooks, but production syste
 `CrewAI` `OpenAI GPT` `Streamlit` `SerperDev` `FPDF` `SMTP`
 
 </td>
-</tr>
-<tr></tr>
 <td width="50%" valign="top">
 
 ### [AI Content Generator](https://github.com/apuroopy1-prog/ai-video-generator)
@@ -86,6 +84,8 @@ My focus is **applied GenAI** — not demos, not notebooks, but production syste
 `Diffusers` `PyTorch` `Gradio` `Hugging Face` `SDXL-Turbo` `ModelScope`
 
 </td>
+</tr>
+<tr></tr>
 <td width="50%" valign="top">
 
 ### [BowlGuard](https://github.com/apuroopy1-prog/BowlGuard)
