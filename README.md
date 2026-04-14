@@ -146,7 +146,7 @@ apuroop = {
 <tr>
 <td width="50%" valign="top">
 
-### 💰 [ClearFlow AI](https://github.com/apuroopy1-prog/AccountingGPT)
+### 💰 [ClearFlow AI](https://github.com/apuroopy1-prog/ClearFlow-AI)
 > AI financial platform for small businesses
 
 - **LangGraph ReAct agent** — conversational memory across sessions
@@ -186,7 +186,7 @@ apuroop = {
 </td>
 <td width="50%" valign="top">
 
-### 🎨 [AI Content Generator](https://github.com/apuroopy1-prog/ai-video-generator)
+### 🎨 [AI Content Generator](https://github.com/apuroopy1-prog/AI-Video-Generator)
 > Text → Image + Video + Audio pipeline
 
 - **Text-to-Image** — SDXL-Turbo (4-step diffusion)
