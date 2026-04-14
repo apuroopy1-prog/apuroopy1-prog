@@ -192,17 +192,6 @@ Neural network and cluster analysis models, RPA system for social media platform
 
 ---
 
-## Certifications
-
-| Certification | Issuer |
-|---|---|
-| **Certified Scrum Master (CSM)** | Scrum Alliance |
-| **Generative AI for Product Managers** | AI Product Management |
-| **Google Cloud — Vertex AI** | Google Cloud |
-| **AI for Business Analysts & PMs** | AI Certification Program |
-
----
-
 <div align="center">
 
 **Open to AI/ML Engineering roles**
