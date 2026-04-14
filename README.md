@@ -8,15 +8,15 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Apuroop_Yarabarla-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/apuroopyarabarla)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Apuroop%20Yarabarla-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/apuroopyarabarla)
 [![GitHub](https://img.shields.io/badge/GitHub-apuroopy1--prog-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/apuroopy1-prog)
-[![Email](https://img.shields.io/badge/Gmail-yarabarlaapuroop@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yarabarlaapuroop@gmail.com)
+[![Email](https://img.shields.io/badge/Email-yarabarlaapuroop%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yarabarlaapuroop@gmail.com)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=apuroopy1-prog&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
 ![Years](https://img.shields.io/badge/Experience-7%2B%20Years-brightgreen?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-GenAI%20%7C%20LLM%20Systems-purple?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-GenAI%20%7C%20LLM%20Systems-blueviolet?style=for-the-badge)
+![Location](https://img.shields.io/badge/Location-Atlanta%2C%20GA-orange?style=for-the-badge)
 
 </div>
 
