@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=900&lines=Building+Production+GenAI+Systems+since+2018;LangGraph+%7C+CrewAI+%7C+RAG+%7C+LoRA+%2F+QLoRA+Fine-tuning;GCP+%7C+AWS+%7C+Azure+%7C+Docker+%7C+Kubernetes;7%2B+Years+%7C+Legal+Tech+%7C+FinTech+%7C+Healthcare+%7C+Industrial;Turning+messy+business+problems+into+working+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=22&amp;pause=1000&amp;color=6366F1&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Building+Production+GenAI+Systems+since+2018;LangGraph+%7C+CrewAI+%7C+RAG+%7C+LoRA+%2F+QLoRA+Fine-tuning;GCP+%7C+AWS+%7C+Azure+%7C+Docker+%7C+Kubernetes;7%2B+Years+%7C+Legal+Tech+%7C+FinTech+%7C+Healthcare+%7C+Industrial;Turning+messy+business+problems+into+working+AI" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -26,7 +26,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> &nbsp; About Me
+## 👨‍💻 About Me
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 
@@ -51,7 +51,7 @@ apuroop = {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> &nbsp; What I Build
+## 🛠️ What I Build
 
 <div align="center">
 
@@ -61,17 +61,23 @@ apuroop = {
 | CrewAI multi-agent systems | PEFT · RLAIF · OpenAI FT API | Pinecone · ChromaDB · Weaviate |
 | Tool-calling · ReAct loops | Ada-002 · Custom embeddings | Semantic chunking strategies |
 
-| ☁️ Cloud & MLOps | 📊 Data Engineering | 🛠️ NLP & CV |
+| ☁️ Cloud & MLOps | 📊 Data Engineering | 🖥️ NLP & CV |
 |:---:|:---:|:---:|
 | GCP · AWS · Azure | PySpark · Kafka · Airflow | Hugging Face · spaCy · NLTK |
 | Docker · Kubernetes | BigQuery · Snowflake · dbt | NER · Summarization · Sentiment |
 | MLflow · DVC · CI/CD | ETL/ELT Pipelines | OpenCV · YOLO · CNNs |
 
+| 📋 Project Management | 📈 Business Analysis | 🤝 Collaboration & Productivity AI |
+|:---:|:---:|:---:|
+| Notion AI · ClickUp AI | Requirements & User Stories | Confluence · Miro · Slack |
+| Jira · Agile / Scrum | Stakeholder Management | n8n Automation · Zapier |
+| Roadmap Planning | Process Optimisation | Microsoft Copilot · ChatGPT Teams |
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> &nbsp; Professional Experience
+## 💼 Professional Experience
 
 <details open>
 <summary><b>🏢 KKRGenAI Innovations LLC, USA &nbsp;|&nbsp; AI / ML Engineer &nbsp;|&nbsp; Jan 2025 – Present</b></summary>
@@ -128,15 +134,11 @@ apuroop = {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"> &nbsp; Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
-[![Real Estate Agent](https://github-readme-stats.vercel.app/api/pin/?username=apuroopy1-prog&repo=project-01-real-estate-market-intelligence-agent&theme=tokyonight&hide_border=true)](https://github.com/apuroopy1-prog/project-01-real-estate-market-intelligence-agent)
-[![LLM Fine-Tuning](https://github-readme-stats.vercel.app/api/pin/?username=apuroopy1-prog&repo=project-02-llm-domain-finetuning-pipeline&theme=tokyonight&hide_border=true)](https://github.com/apuroopy1-prog/project-02-llm-domain-finetuning-pipeline)
-
-[![DevOps Agent](https://github-readme-stats.vercel.app/api/pin/?username=apuroopy1-prog&repo=project-03-devops-incident-response-agent&theme=tokyonight&hide_border=true)](https://github.com/apuroopy1-prog/project-03-devops-incident-response-agent)
-[![Sentiment Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=apuroopy1-prog&repo=project-04-multilingual-sentiment-analysis-pipeline&theme=tokyonight&hide_border=true)](https://github.com/apuroopy1-prog/project-04-multilingual-sentiment-analysis-pipeline)
+[![Real Estate Agent](https://github-readme-stats.vercel.app/api/pin/?username=apuroopy1-prog&repo=project-01-real-estate-market-intelligence-agent&theme=tokyonight&hide_border=true)](https://github.com/apuroopy1-prog/project-01-real-estate-market-intelligence-agent)[![LLM Fine-Tuning](https://github-readme-stats.vercel.app/api/pin/?username=apuroopy1-prog&repo=project-02-llm-domain-finetuning-pipeline&theme=tokyonight&hide_border=true)](https://github.com/apuroopy1-prog/project-02-llm-domain-finetuning-pipeline)[![DevOps Agent](https://github-readme-stats.vercel.app/api/pin/?username=apuroopy1-prog&repo=project-03-devops-incident-response-agent&theme=tokyonight&hide_border=true)](https://github.com/apuroopy1-prog/project-03-devops-incident-response-agent)[![Sentiment Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=apuroopy1-prog&repo=project-04-multilingual-sentiment-analysis-pipeline&theme=tokyonight&hide_border=true)](https://github.com/apuroopy1-prog/project-04-multilingual-sentiment-analysis-pipeline)
 
 </div>
 
@@ -201,7 +203,7 @@ apuroop = {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
 
-## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="25"> &nbsp; Tech Stack
+## ⚡ Tech Stack
 
 <div align="center">
 
@@ -249,11 +251,19 @@ apuroop = {
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-3B82F6?style=for-the-badge&logoColor=white)
 
+### 📋 Project Management & Productivity AI
+![Notion AI](https://img.shields.io/badge/Notion_AI-000000?style=for-the-badge&logo=notion&logoColor=white)
+![ClickUp AI](https://img.shields.io/badge/ClickUp_AI-7B68EE?style=for-the-badge&logo=clickup&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![Microsoft Copilot](https://img.shields.io/badge/Microsoft_Copilot-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logoColor=white)
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25"> &nbsp; GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
