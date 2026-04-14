@@ -8,13 +8,15 @@
 
 <br/>
 
-### Apuroop Yarabarla — AI / ML Engineer
-
-**[🔗 LinkedIn](https://linkedin.com/in/apuroopyarabarla)** &nbsp;&nbsp;|&nbsp;&nbsp; **[🐙 GitHub](https://github.com/apuroopy1-prog)** &nbsp;&nbsp;|&nbsp;&nbsp; **[📧 yarabarlaapuroop@gmail.com](mailto:yarabarlaapuroop@gmail.com)**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Apuroop_Yarabarla-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/apuroopyarabarla)
+[![GitHub](https://img.shields.io/badge/GitHub-apuroopy1--prog-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/apuroopy1-prog)
+[![Email](https://img.shields.io/badge/Gmail-yarabarlaapuroop%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yarabarlaapuroop@gmail.com)
 
 <br/>
 
-📍 Atlanta, GA &nbsp;&nbsp;·&nbsp;&nbsp; 🗓️ 7+ Years Experience &nbsp;&nbsp;·&nbsp;&nbsp; 🎯 GenAI &nbsp;|&nbsp; LLM Systems &nbsp;|&nbsp; Agentic AI
+![Years](https://img.shields.io/badge/Experience-7%2B%20Years-brightgreen?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-GenAI%20%7C%20LLM%20Systems-blueviolet?style=for-the-badge)
+![Location](https://img.shields.io/badge/Location-Atlanta%2C%20GA-orange?style=for-the-badge)
 
 </div>
 
