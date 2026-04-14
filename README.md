@@ -134,34 +134,6 @@ apuroop = {
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-<a href="https://github.com/apuroopy1-prog/project-01-real-estate-market-intelligence-agent">
-<img src="https://opengraph.githubassets.com/1/apuroopy1-prog/project-01-real-estate-market-intelligence-agent" width="100%"/>
-</a>
-</td>
-<td width="50%">
-<a href="https://github.com/apuroopy1-prog/project-02-llm-domain-finetuning-pipeline">
-<img src="https://opengraph.githubassets.com/1/apuroopy1-prog/project-02-llm-domain-finetuning-pipeline" width="100%"/>
-</a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<a href="https://github.com/apuroopy1-prog/project-03-devops-incident-response-agent">
-<img src="https://opengraph.githubassets.com/1/apuroopy1-prog/project-03-devops-incident-response-agent" width="100%"/>
-</a>
-</td>
-<td width="50%">
-<a href="https://github.com/apuroopy1-prog/project-04-multilingual-sentiment-analysis-pipeline">
-<img src="https://opengraph.githubassets.com/1/apuroopy1-prog/project-04-multilingual-sentiment-analysis-pipeline" width="100%"/>
-</a>
-</td>
-</tr>
-</table>
-
-<br/>
 
 <table>
 <tr>
