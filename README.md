@@ -6,9 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=22&amp;pause=1000&amp;color=6366F1&amp;center=true&amp;vCenter=true&amp;width=900&amp;lines=Building+Production+GenAI+Systems+since+2018;LangGraph+%7C+CrewAI+%7C+RAG+%7C+LoRA+%2F+QLoRA+Fine-tuning;GCP+%7C+AWS+%7C+Azure+%7C+Docker+%7C+Kubernetes;7%2B+Years+%7C+Legal+Tech+%7C+FinTech+%7C+Healthcare+%7C+Industrial;Turning+messy+business+problems+into+working+AI" alt="Typing SVG" />
-
-<br/><br/>
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Apuroop_Yarabarla-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/apuroopyarabarla)
 [![GitHub](https://img.shields.io/badge/GitHub-apuroopy1--prog-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/apuroopy1-prog)
@@ -27,8 +25,6 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
 
 ## 👨‍💻 About Me
-
-<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 
 **AI/ML Engineer** with **7+ years** building production **Generative AI** and **Machine Learning** systems across **Legal Tech · FinTech · Healthcare · Industrial** domains.
 
