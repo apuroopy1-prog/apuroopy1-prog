@@ -1,56 +1,152 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B+I'm+Apuroop+Yarabarla;AI+%2F+ML+Engineer+%7C+GenAI+%26+LLM+Specialist;Agentic+AI+Systems+%7C+7%2B+Years+Experience;LangGraph+%C2%B7+CrewAI+%C2%B7+RAG+%C2%B7+LoRA+Fine-tuning;GCP+%C2%B7+AWS+%C2%B7+Azure+%C2%B7+MLOps" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Apuroop%20Yarabarla&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%2F%20ML%20Engineer%20%7C%20GenAI%20%26%20LLM%20Specialist%20%7C%20Agentic%20AI%20Systems&descAlignY=55&descSize=16"/>
 
-<br/>
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=900&lines=🤖+Building+Production+GenAI+Systems+since+2018;🧠+LangGraph+·+CrewAI+·+RAG+·+LoRA+%2F+QLoRA+Fine-tuning;☁️+GCP+·+AWS+·+Azure+·+Docker+·+Kubernetes;📊+7%2B+Years+·+Legal+Tech+·+FinTech+·+Healthcare+·+Industrial;🔥+Turning+messy+business+problems+into+working+AI" alt="Typing SVG" />
+
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Apuroop_Yarabarla-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/apuroopyarabarla)
 [![GitHub](https://img.shields.io/badge/GitHub-apuroopy1--prog-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/apuroopy1-prog)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yarabarlaapuroop@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-yarabarlaapuroop@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yarabarlaapuroop@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=apuroopy1-prog&color=6366F1&style=for-the-badge&label=PROFILE+VIEWS)
+![Years](https://img.shields.io/badge/Experience-7%2B%20Years-brightgreen?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-GenAI%20%7C%20LLM%20Systems-purple?style=for-the-badge)
 
 </div>
 
 ---
 
-## About Me
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-**AI/ML Engineer** with **7+ years** of hands-on experience building and shipping **Generative AI** and **machine learning** systems across **legal tech, fintech, healthcare, and industrial** domains.
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> &nbsp; About Me
 
-My core strength is turning complex, messy business problems into working AI — whether that's a RAG pipeline querying millions of legal documents, a multi-agent system that drafts contracts autonomously, or an NLP pipeline flagging adverse drug events in real time. I work across the full stack: data wrangling, model training, fine-tuning, API development, cloud deployment, and production monitoring.
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 
-- **LLMs & Fine-tuning:** GPT-4, Gemini, LLaMA, Mistral, Claude — fine-tuned with LoRA, QLoRA, PEFT; deployed RLAIF-based flows and semantic retrievers with Ada-002 and custom embeddings
-- **Agentic AI:** Multi-agent systems with LangGraph & CrewAI — stateful, cyclical reasoning loops used in production for legal document classification, clause extraction, and compliance checks
-- **RAG & Vector Search:** HyDE, Parent-Document Retrieval, Pinecone, ChromaDB, Weaviate — deep experience tuning chunking strategies and embedding pipelines
-- **ML Lifecycle:** Supervised, unsupervised, and RL approaches — regression, classification, clustering (K-Means, K-Medoids), XGBoost, LightGBM, time-series, CNNs, RNNs, LSTMs
-- **Cloud & MLOps:** GCP (Vertex AI, BigQuery, Cloud Functions), AWS (SageMaker, Lambda, ECS), Azure — Docker, Kubernetes, MLflow, DVC, GitHub Actions CI/CD
-- **NLP:** Text mining, NER, sentiment analysis, document summarization — Hugging Face Transformers, spaCy, NLTK integrated into LangChain pipelines
-- **Data Engineering:** PySpark, Apache Airflow, Kafka, BigQuery, Snowflake, dbt, ETL/ELT pipelines
+**AI/ML Engineer** with **7+ years** building production **Generative AI** and **Machine Learning** systems across **Legal Tech · FinTech · Healthcare · Industrial** domains.
 
----
+> *"My core strength is turning complex, messy business problems into working AI."*
 
-## Professional Experience
+```python
+apuroop = {
+    "role":        "AI / ML Engineer | GenAI & LLM Specialist",
+    "experience":  "7+ years",
+    "location":    "Atlanta, GA 🇺🇸",
+    "current":     "KKRGenAI Innovations LLC",
+    "specialties": ["Agentic AI", "LLM Fine-Tuning", "RAG Pipelines",
+                    "Multi-Agent Systems", "MLOps"],
+    "llms":        ["GPT-4", "Gemini", "LLaMA", "Mistral", "Claude"],
+    "fine_tuning": ["LoRA", "QLoRA", "PEFT", "RLAIF", "OpenAI FT API"],
+    "cloud":       ["GCP", "AWS", "Azure"],
+    "superpower":  "Ship AI that actually works in production 🚀",
+}
+```
 
-### KKRGenAI Innovations LLC, USA — *AI / ML Engineer* `Jan 2025 – Present`
-Building GenAI systems for legal document work: automated contract analysis, clause extraction, risk flagging. Multi-agent systems (LangGraph + CrewAI) in production. RAG pipelines over millions of documents (LangChain + Pinecone). PEFT/LoRA/QLoRA fine-tuning for legal domain adaptation. GCP-primary deployment with FastAPI services, Streamlit dashboards, and n8n automation saving 10+ hours/week. Reduced operational inference costs by ~30%.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### Pragma Info Systems, USA — *Data Scientist / AI-ML Engineer* `Sept 2023 – Dec 2024`
-Pharmacovigilance NLP systems detecting adverse event signals from clinical narrative text. Multi-cloud workloads (AWS Bedrock, Azure, GCP). RLAIF fine-tuning and semantic retrievers with SLMs, VLLMs, and Ada-002. RAG on ChromaDB + Pinecone with PyOD-based signal detection for drug-event associations. FastAPI endpoints with strict Pydantic schemas for LangChain pipelines.
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> &nbsp; What I Build
 
-### Intellectuals AI, India — *Software Developer – ML* `Jul 2021 – Feb 2022`
-NLP analytics pipelines using Knowledge Graph, Ontology, WMD, NLTK. Web scraping with BeautifulSoup, Selenium, Scrapy. Imbalanced dataset handling, ETL into MongoDB. CNN/ANN models in Keras/TensorFlow for computer vision tasks.
+<div align="center">
 
-### Raine Industries Limited, India — *Software Developer* `Jan 2018 – Jun 2021`
-Neural network and cluster analysis models, RPA system for social media platforms (Facebook, WhatsApp, Twitter), customer behavior segmentation, Tableau dashboards, Talend ETL, time-series and financial modeling with Python and R.
+| 🤖 Agentic AI | 🧠 LLM Fine-Tuning | 🔍 RAG & Vector Search |
+|:---:|:---:|:---:|
+| LangGraph stateful agents | LoRA / QLoRA on Mistral-7B & LLaMA | HyDE · Parent-Doc Retrieval |
+| CrewAI multi-agent systems | PEFT · RLAIF · OpenAI FT API | Pinecone · ChromaDB · Weaviate |
+| Tool-calling · ReAct loops | Ada-002 · Custom embeddings | Semantic chunking strategies |
 
----
+| ☁️ Cloud & MLOps | 📊 Data Engineering | 🛠️ NLP & CV |
+|:---:|:---:|:---:|
+| GCP · AWS · Azure | PySpark · Kafka · Airflow | Hugging Face · spaCy · NLTK |
+| Docker · Kubernetes | BigQuery · Snowflake · dbt | NER · Summarization · Sentiment |
+| MLflow · DVC · CI/CD | ETL/ELT Pipelines | OpenCV · YOLO · CNNs |
 
-## Featured Projects
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"> &nbsp; Professional Experience
+
+<details open>
+<summary><b>🏢 KKRGenAI Innovations LLC, USA &nbsp;|&nbsp; AI / ML Engineer &nbsp;|&nbsp; Jan 2025 – Present</b></summary>
+<br/>
+
+- 🔷 Built **multi-agent systems** (LangGraph + CrewAI) for automated contract analysis, clause extraction, and compliance checks — in production
+- 🔷 **RAG pipelines** over millions of legal documents using LangChain + Pinecone (HyDE, parent-document retrieval)
+- 🔷 **LoRA / QLoRA / PEFT fine-tuning** on LLMs for legal domain adaptation — reduced hallucinations on jurisdiction-specific terminology
+- 🔷 **GCP-primary** deployment (Vertex AI, BigQuery, Cloud Functions) + AWS SageMaker + Azure
+- 🔷 **n8n automation** saved team 10+ hrs/week · Prompt compression & caching cut inference costs by **~30%**
+- 🔷 FastAPI microservices + Streamlit dashboards for legal teams
+
+`GPT-4` `Gemini` `LLaMA` `LangGraph` `CrewAI` `LangChain` `Pinecone` `GCP` `AWS` `Docker` `LoRA` `QLoRA`
+
+</details>
+
+<details>
+<summary><b>🏢 Pragma Info Systems, USA &nbsp;|&nbsp; Data Scientist / AI-ML Engineer &nbsp;|&nbsp; Sept 2023 – Dec 2024</b></summary>
+<br/>
+
+- 🔷 **Pharmacovigilance NLP** — detecting adverse event signals from clinical narrative text at scale
+- 🔷 Multi-cloud workloads across **AWS Bedrock, Azure, GCP** · Dockerized GPU batch jobs
+- 🔷 **RLAIF fine-tuning** + semantic retrievers using SLMs, VLLMs, Ada-002 + custom embeddings
+- 🔷 **PyOD signal detection** — flagged drug-event associations missed by rule-based approaches
+- 🔷 RAG on ChromaDB + Pinecone · FastAPI endpoints · Pydantic schema validation
+
+`OpenAI` `AWS Bedrock` `Azure` `ChromaDB` `Pinecone` `LangChain` `FastAPI` `PyOD` `Pydantic`
+
+</details>
+
+<details>
+<summary><b>🏢 Intellectuals AI, India &nbsp;|&nbsp; Software Developer – ML &nbsp;|&nbsp; Jul 2021 – Feb 2022</b></summary>
+<br/>
+
+- 🔷 NLP analytics pipelines using Knowledge Graph, Ontology, WMD, NLTK
+- 🔷 Web scraping (BeautifulSoup, Selenium, Scrapy) + ETL into MongoDB
+- 🔷 CNN/ANN models in Keras/TensorFlow for computer vision and information extraction
+
+`Python` `NLTK` `TensorFlow` `Keras` `MongoDB` `Selenium` `Scrapy`
+
+</details>
+
+<details>
+<summary><b>🏢 Raine Industries Limited, India &nbsp;|&nbsp; Software Developer &nbsp;|&nbsp; Jan 2018 – Jun 2021</b></summary>
+<br/>
+
+- 🔷 Neural network and cluster analysis models · RPA for social media automation
+- 🔷 Customer behaviour segmentation · Tableau dashboards · Talend ETL
+- 🔷 Time-series forecasting · Financial modelling with Python and R
+
+`Python` `R` `TensorFlow` `Tableau` `Talend` `NLTK` `Pandas` `NumPy`
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25"> &nbsp; Featured Projects
+
+<div align="center">
+
+[![Real Estate Agent](https://github-readme-stats.vercel.app/api/pin/?username=apuroopy1-prog&repo=project-01-real-estate-market-intelligence-agent&theme=tokyonight&hide_border=true)](https://github.com/apuroopy1-prog/project-01-real-estate-market-intelligence-agent)
+[![LLM Fine-Tuning](https://github-readme-stats.vercel.app/api/pin/?username=apuroopy1-prog&repo=project-02-llm-domain-finetuning-pipeline&theme=tokyonight&hide_border=true)](https://github.com/apuroopy1-prog/project-02-llm-domain-finetuning-pipeline)
+
+[![DevOps Agent](https://github-readme-stats.vercel.app/api/pin/?username=apuroopy1-prog&repo=project-03-devops-incident-response-agent&theme=tokyonight&hide_border=true)](https://github.com/apuroopy1-prog/project-03-devops-incident-response-agent)
+[![Sentiment Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=apuroopy1-prog&repo=project-04-multilingual-sentiment-analysis-pipeline&theme=tokyonight&hide_border=true)](https://github.com/apuroopy1-prog/project-04-multilingual-sentiment-analysis-pipeline)
+
+</div>
+
+<br/>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [ClearFlow AI](https://github.com/apuroopy1-prog/AccountingGPT)
+### 💰 [ClearFlow AI](https://github.com/apuroopy1-prog/AccountingGPT)
 > AI financial platform for small businesses
 
 - **LangGraph ReAct agent** — conversational memory across sessions
@@ -58,15 +154,15 @@ Neural network and cluster analysis models, RPA system for social media platform
 - **Prophet forecasting** — 12-month net cash flow
 - **Anomaly detection** — duplicate charges, unusual spikes
 
-`FastAPI` `React` `PostgreSQL` `Docker` `Claude` `LangGraph` `Prophet`
+`FastAPI` `React` `PostgreSQL` `Docker` `Claude` `LangGraph`
 
 </td>
 <td width="50%" valign="top">
 
-### [AI Health Navigator](https://github.com/apuroopy1-prog/AI-Health-Navigator)
+### 🏥 [AI Health Navigator](https://github.com/apuroopy1-prog/AI-Health-Navigator)
 > Clinical decision support with RAG + voice
 
-- **LangGraph workflow** for symptom assessment and triage
+- **LangGraph workflow** — symptom assessment & triage
 - **Vertex AI Vector Search** — RAG over medical knowledge base
 - **Google text-embedding-004** — 512-token chunks
 - **Deployed** on AWS App Runner + EC2 with CI/CD
@@ -78,19 +174,19 @@ Neural network and cluster analysis models, RPA system for social media platform
 <tr>
 <td width="50%" valign="top">
 
-### [AI Vacation Planner](https://github.com/apuroopy1-prog/AI-Vacation-Planner)
+### ✈️ [AI Vacation Planner](https://github.com/apuroopy1-prog/AI-Vacation-Planner)
 > 4-agent CrewAI travel planning pipeline
 
-- **4 specialized agents** — City Expert → Tour Guide → Logistics → Compiler
+- **4 specialised agents** — City Expert → Tour Guide → Logistics → Compiler
 - Real-time web search via Serper API
-- Branded **PDF itinerary generation** + email delivery
+- Branded **PDF itinerary** + email delivery
 
-`CrewAI` `OpenAI GPT` `Streamlit` `SerperDev` `FPDF` `SMTP`
+`CrewAI` `OpenAI GPT` `Streamlit` `SerperDev` `FPDF`
 
 </td>
 <td width="50%" valign="top">
 
-### [AI Content Generator](https://github.com/apuroopy1-prog/ai-video-generator)
+### 🎨 [AI Content Generator](https://github.com/apuroopy1-prog/ai-video-generator)
 > Text → Image + Video + Audio pipeline
 
 - **Text-to-Image** — SDXL-Turbo (4-step diffusion)
@@ -103,99 +199,111 @@ Neural network and cluster analysis models, RPA system for social media platform
 </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## Tech Stack
-
-### Generative AI & LLMs
-![GPT-4](https://img.shields.io/badge/GPT--4-OpenAI-10A37F?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-Google-4285F4?style=flat-square&logo=google&logoColor=white)
-![LLaMA](https://img.shields.io/badge/LLaMA-Meta-0467DF?style=flat-square)
-![Claude](https://img.shields.io/badge/Anthropic_Claude-8B5CF6?style=flat-square)
-![Mistral](https://img.shields.io/badge/Mistral-AI-FF7000?style=flat-square)
-![LoRA](https://img.shields.io/badge/Fine--tuning-LoRA_%7C_QLoRA_%7C_PEFT-DC2626?style=flat-square)
-
-### Agentic AI & Frameworks
-![LangGraph](https://img.shields.io/badge/LangGraph-ReAct_Agents-6366F1?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![CrewAI](https://img.shields.io/badge/CrewAI-Multi--Agent-DC2626?style=flat-square)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FF6B35?style=flat-square)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-Transformers-FFD21E?style=flat-square)
-
-### RAG & Vector Databases
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-059669?style=flat-square)
-![Weaviate](https://img.shields.io/badge/Weaviate-0EA5E9?style=flat-square)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-Matching_Engine-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Ada-002](https://img.shields.io/badge/Ada--002-Custom_Embeddings-6366F1?style=flat-square)
-
-### ML & Deep Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-LightGBM-3B82F6?style=flat-square)
-![OpenCV](https://img.shields.io/badge/OpenCV-YOLO-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-NLTK-09A3D5?style=flat-square)
-
-### Cloud & MLOps
-![GCP](https://img.shields.io/badge/GCP-Vertex_AI_%7C_BigQuery-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-SageMaker_%7C_Lambda_%7C_ECS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure_ML-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Kubernetes-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-DVC-0194E2?style=flat-square)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-CI%2FCD-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-
-### Backend & Data Engineering
-![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
-![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-Snowflake-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-
-### AI Automation & Productivity Tools
-![n8n](https://img.shields.io/badge/n8n-Workflow_Automation-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Notion AI](https://img.shields.io/badge/Notion_AI-000000?style=flat-square&logo=notion&logoColor=white)
-![ClickUp AI](https://img.shields.io/badge/ClickUp_AI-7B68EE?style=flat-square)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Talend](https://img.shields.io/badge/Talend-ETL-1798C1?style=flat-square)
-
----
-
-## GitHub Stats
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="25"> &nbsp; Tech Stack
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=apuroopy1-prog&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apuroopy1-prog&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+### 🤖 Generative AI & LLMs
+![GPT-4](https://img.shields.io/badge/GPT--4-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-8B5CF6?style=for-the-badge&logoColor=white)
+![LLaMA](https://img.shields.io/badge/LLaMA-0467DF?style=for-the-badge&logoColor=white)
+![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=for-the-badge&logoColor=white)
+![LoRA](https://img.shields.io/badge/LoRA%20%2F%20QLoRA%20%2F%20PEFT-DC2626?style=for-the-badge&logoColor=white)
+
+### 🧠 Agentic AI & Frameworks
+![LangGraph](https://img.shields.io/badge/LangGraph-6366F1?style=for-the-badge&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-DC2626?style=for-the-badge&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-FF6B35?style=for-the-badge&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
+
+### 🔍 RAG & Vector Databases
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-059669?style=for-the-badge&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-0EA5E9?style=for-the-badge&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### ☁️ Cloud & MLOps
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### 🛠️ Languages & Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+
+### 🧮 ML & Deep Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-3B82F6?style=for-the-badge&logoColor=white)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25"> &nbsp; GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=apuroopy1-prog&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apuroopy1-prog&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=apuroopy1-prog&theme=tokyonight&hide_border=true)
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=apuroopy1-prog&theme=tokyonight&hide_border=true"/>
 
 </div>
 
----
+<div align="center">
 
-## Education
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=apuroopy1-prog&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
-| Degree | Institution |
-|--------|------------|
-| **Master of Science in Project Management – Analysis** | Northeastern University |
-| **Master of Business Administration** | Osmania University |
-| **Bachelor of Commerce and Computers** | Osmania University |
+</div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎓 Education
 
 <div align="center">
 
-**Open to AI/ML Engineering roles**
+| 🏛️ Degree | 🎓 Institution |
+|:---|:---|
+| **Master of Science — Project Management & Analysis** | Northeastern University 🇺🇸 |
+| **Master of Business Administration** | Osmania University 🇮🇳 |
+| **Bachelor of Commerce & Computers** | Osmania University 🇮🇳 |
 
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/apuroopyarabarla)
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+### 💬 Open to AI/ML Engineering roles & collaborations
+
+<a href="https://linkedin.com/in/apuroopyarabarla">
+  <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:yarabarlaapuroop@gmail.com">
+  <img src="https://img.shields.io/badge/Send_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
