@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Apuroop%20Yarabarla&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%2F%20ML%20Engineer%20%7C%20GenAI%20%26%20LLM%20Specialist%20%7C%20Agentic%20AI%20Systems&descAlignY=55&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%2C%20I%27m%20Apuroop%20Yarabarla%20%F0%9F%91%8B&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Engineer%20%C2%B7%20AI%20Product%20Owner%20%C2%B7%20GenAI%20Builder&descAlignY=55&descSize=16"/>
 
 </div>
 
