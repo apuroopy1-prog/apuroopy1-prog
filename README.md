@@ -26,6 +26,8 @@
 
 ## 👨‍💻 About Me
 
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+
 **AI/ML Engineer** with **7+ years** building production **Generative AI** and **Machine Learning** systems across **Legal Tech · FinTech · Healthcare · Industrial** domains.
 
 > *"My core strength is turning complex, messy business problems into working AI."*
@@ -132,11 +134,32 @@ apuroop = {
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-[![Real Estate Agent](https://github-readme-stats.vercel.app/api/pin/?username=apuroopy1-prog&repo=project-01-real-estate-market-intelligence-agent&theme=tokyonight&hide_border=true)](https://github.com/apuroopy1-prog/project-01-real-estate-market-intelligence-agent)[![LLM Fine-Tuning](https://github-readme-stats.vercel.app/api/pin/?username=apuroopy1-prog&repo=project-02-llm-domain-finetuning-pipeline&theme=tokyonight&hide_border=true)](https://github.com/apuroopy1-prog/project-02-llm-domain-finetuning-pipeline)[![DevOps Agent](https://github-readme-stats.vercel.app/api/pin/?username=apuroopy1-prog&repo=project-03-devops-incident-response-agent&theme=tokyonight&hide_border=true)](https://github.com/apuroopy1-prog/project-03-devops-incident-response-agent)[![Sentiment Pipeline](https://github-readme-stats.vercel.app/api/pin/?username=apuroopy1-prog&repo=project-04-multilingual-sentiment-analysis-pipeline&theme=tokyonight&hide_border=true)](https://github.com/apuroopy1-prog/project-04-multilingual-sentiment-analysis-pipeline)
-
-</div>
+<table>
+<tr>
+<td width="50%">
+<a href="https://github.com/apuroopy1-prog/project-01-real-estate-market-intelligence-agent">
+<img src="https://opengraph.githubassets.com/1/apuroopy1-prog/project-01-real-estate-market-intelligence-agent" width="100%"/>
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/apuroopy1-prog/project-02-llm-domain-finetuning-pipeline">
+<img src="https://opengraph.githubassets.com/1/apuroopy1-prog/project-02-llm-domain-finetuning-pipeline" width="100%"/>
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/apuroopy1-prog/project-03-devops-incident-response-agent">
+<img src="https://opengraph.githubassets.com/1/apuroopy1-prog/project-03-devops-incident-response-agent" width="100%"/>
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/apuroopy1-prog/project-04-multilingual-sentiment-analysis-pipeline">
+<img src="https://opengraph.githubassets.com/1/apuroopy1-prog/project-04-multilingual-sentiment-analysis-pipeline" width="100%"/>
+</a>
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -263,8 +286,8 @@ apuroop = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=apuroopy1-prog&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apuroopy1-prog&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=apuroopy1-prog&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apuroopy1-prog&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
