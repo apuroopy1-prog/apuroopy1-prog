@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=900&lines=🤖+Building+Production+GenAI+Systems+since+2018;🧠+LangGraph+·+CrewAI+·+RAG+·+LoRA+%2F+QLoRA+Fine-tuning;☁️+GCP+·+AWS+·+Azure+·+Docker+·+Kubernetes;📊+7%2B+Years+·+Legal+Tech+·+FinTech+·+Healthcare+·+Industrial;🔥+Turning+messy+business+problems+into+working+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=900&lines=Building+Production+GenAI+Systems+since+2018;LangGraph+%7C+CrewAI+%7C+RAG+%7C+LoRA+%2F+QLoRA+Fine-tuning;GCP+%7C+AWS+%7C+Azure+%7C+Docker+%7C+Kubernetes;7%2B+Years+%7C+Legal+Tech+%7C+FinTech+%7C+Healthcare+%7C+Industrial;Turning+messy+business+problems+into+working+AI" alt="Typing SVG" />
 
 <br/><br/>
 
