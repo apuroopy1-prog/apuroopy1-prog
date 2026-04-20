@@ -277,16 +277,6 @@ apuroop = {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
 
-## 🎓 Education
-
-<div align="center">
-
-| 🏛️ Degree | 🎓 Institution |
-|:---|:---|
-| **Master of Science — Project Management & Analysis** | Northeastern University 🇺🇸 |
-| **Master of Business Administration** | Osmania University 🇮🇳 |
-| **Bachelor of Commerce & Computers** | Osmania University 🇮🇳 |
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%"/>
