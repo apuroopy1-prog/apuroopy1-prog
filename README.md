@@ -107,7 +107,7 @@ apuroop = {
 </details>
 
 <details>
-<summary><b>🏢 Intellectuals AI, India &nbsp;|&nbsp; Software Developer – ML &nbsp;|&nbsp; Jul 2021 – Feb 2022</b></summary>
+<summary><b>🏢 Intellectuals AI, India &nbsp;|&nbsp; Software Developer – ML &nbsp;|&nbsp; Feb 2020 – Feb 2022</b></summary>
 <br/>
 
 - 🔷 NLP analytics pipelines using Knowledge Graph, Ontology, WMD, NLTK
@@ -115,18 +115,6 @@ apuroop = {
 - 🔷 CNN/ANN models in Keras/TensorFlow for computer vision and information extraction
 
 `Python` `NLTK` `TensorFlow` `Keras` `MongoDB` `Selenium` `Scrapy`
-
-</details>
-
-<details>
-<summary><b>🏢 Raine Industries Limited, India &nbsp;|&nbsp; Software Developer &nbsp;|&nbsp; Jan 2018 – Jun 2021</b></summary>
-<br/>
-
-- 🔷 Neural network and cluster analysis models · RPA for social media automation
-- 🔷 Customer behaviour segmentation · Tableau dashboards · Talend ETL
-- 🔷 Time-series forecasting · Financial modelling with Python and R
-
-`Python` `R` `TensorFlow` `Tableau` `Talend` `NLTK` `Pandas` `NumPy`
 
 </details>
 
