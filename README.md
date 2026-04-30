@@ -28,7 +28,7 @@
 
 <img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
 
-**AI/ML Engineer** with **7+ years** building production **Generative AI** and **Machine Learning** systems across **Legal Tech · FinTech · Healthcare · Industrial** domains.
+**AI/ML Engineer** with **4+ years** building production **Generative AI** and **Machine Learning** systems across **Legal Tech · FinTech · Healthcare · Industrial** domains.
 
 > *"My core strength is turning complex, messy business problems into working AI."*
 
